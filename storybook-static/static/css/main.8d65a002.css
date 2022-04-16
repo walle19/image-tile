@@ -2,18 +2,29 @@
     display: grid;
 }
 
+.Circular_circularPlaceholder__1tbb4 {
+    width: 35%;
+    border-radius: 50%;
+}
+
 .Circular_circularImg__F3Ja2 {
-    width: 50%;
+    width: 35%;
     border-radius: 50%;
 }
 .Square_container__MJ6Qn {
     display: grid;
 }
 
-.Square_squareImg__Mtpk6 {
-    width: 50%;
+.Square_squarePlaceholder__Uw4Qb {
+    width: 35%;
     border-radius: 20%;
 }
+
+.Square_squareImg__Mtpk6 {
+    width: 35%;
+    border-radius: 20%;
+}
+
 .Banner_container__Q07kg {
     display: grid;
 }
@@ -29,4 +40,4 @@
     height: 50%;
 }
 
-/*# sourceMappingURL=main.022bd9ab.css.map*/
+/*# sourceMappingURL=main.8d65a002.css.map*/
