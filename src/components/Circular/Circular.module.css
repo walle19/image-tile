@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+}
+
+.circularPlaceholder {
+    width: 35%;
+    border-radius: 50%;
+}
+
+.circularImg {
+    width: 35%;
+    border-radius: 50%;
+}

@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+}
+
+.squarePlaceholder {
+    width: 35%;
+    border-radius: 20%;
+}
+
+.squareImg {
+    width: 35%;
+    border-radius: 20%;
+}
